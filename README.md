@@ -1,7 +1,8 @@
 
 		
-<h1 align="center">Hi folks, I'm Manjiri Chavande</h1>
+<h1 align="center">Hey folks, I'm Manjiri Chavande</h1>
 <h3 align="center">A passionate developer and a music lover</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex108&label=Profile%20views&color=0e75b6&style=flat" alt="codex108" /> </p>
 
