@@ -1,4 +1,4 @@
-
+![DESIGN and Development](https://github.com/CODEX108/CODEX108/blob/main/%40codex108.png)
 		
 <h1 align="center">Hey folks, I'm Manjiri Chavande</h1>
 <h3 align="center">A passionate developer and a music lover</h3>
