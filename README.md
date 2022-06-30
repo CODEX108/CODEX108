@@ -1,7 +1,7 @@
 ![DESIGN and Development](https://github.com/CODEX108/CODEX108/blob/main/%40codex108.png)
 		
 <h1 align="center">Hey folks, I'm Manjiri Chavande</h1>
-<h3 align="center">A passionate developer and a music lover</h3>
+<h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <img align="left" alt="Hello" width="200" src="https://media.giphy.com/media/XTMCQvvHSw5vrC9Ei7/giphy.gif">
 
