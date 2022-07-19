@@ -1,4 +1,4 @@
-![DESIGN and Development](https://github.com/CODEX108/CODEX108/blob/main/%40codex108.png)
+![@codex108_modified](https://user-images.githubusercontent.com/82377810/179710945-7abd4655-8539-4f5c-9fad-1a50ddf5b42a.jpg)
 		
 <h1 align="center">Hey folks, I'm Manjiri Chavande</h1>
 <h3 align="center">A passionate developer</h3>
