@@ -1,12 +1,15 @@
 ![@codex108_modified](https://user-images.githubusercontent.com/82377810/179710945-7abd4655-8539-4f5c-9fad-1a50ddf5b42a.jpg)
 		
 <h1 align="center">Hey folks, I'm Manjiri Chavande</h1>
-<h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-<img align="left" alt="Hello" width="200" src="https://media.giphy.com/media/XTMCQvvHSw5vrC9Ei7/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex108&label=Profile%20views&color=0e75b6&style=flat" alt="codex108" /> </p>
+<h3 align="center">A passionate developer</h3>
+<img align="right"  alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="left" alt="Hello" width="200" src="https://media.giphy.com/media/XTMCQvvHSw5vrC9Ei7/giphy.gif">
 
-<br>
+
+
+
+
 - 🔭 I’m currently working on **Designing a website**
 
 - 🌱 I’m currently learning **Java,HTML,CSS,JS,MongoDb**
@@ -16,7 +19,10 @@
 - 📫 How to reach me **cmanjiri1912@gmail.com**
 
 - ⚡ Fun fact **I love exploring things**
-</br>
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -47,12 +53,8 @@
 
 
 
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codex108&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex108&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codex108&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&locale=en" alt="codex108" /></p>
 
 
 <p><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Nobodycares"</p>
