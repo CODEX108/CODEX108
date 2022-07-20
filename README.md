@@ -4,12 +4,9 @@
 <h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <img align="left" alt="Hello" width="200" src="https://media.giphy.com/media/XTMCQvvHSw5vrC9Ei7/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex108&label=Profile%20views&color=0e75b6&style=flat" alt="codex108" /> </p>
 
-
-
-
+<br>
 - 🔭 I’m currently working on **Designing a website**
 
 - 🌱 I’m currently learning **Java,HTML,CSS,JS,MongoDb**
@@ -19,6 +16,8 @@
 - 📫 How to reach me **cmanjiri1912@gmail.com**
 
 - ⚡ Fun fact **I love exploring things**
+</br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,8 +28,8 @@
 </p>
 <br><br>
 
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=codex108&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+ 
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=codex108&column=9&margin-w=20&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 
 <p align="center">  
