@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Designing a website**
 
-- 🌱 I’m currently learning **Java,HTML,CSS,JS,MongoDb**
+- 🌱 I’m currently learning **HTML,CSS,JS,MongoDb**
 
 - 💬 Ask me about **An avid learner**
 
