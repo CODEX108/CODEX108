@@ -62,6 +62,6 @@
 
 
 ![snake gif](https://github.com/shaggyyy2002/shaggyyy2002/blob/output/github-contribution-grid-snake.svg)
-<p><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Nobodycares"</p>
+<p><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Snake Eating Commits🐍"</p>
 
 
