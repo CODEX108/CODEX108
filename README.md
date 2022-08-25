@@ -7,16 +7,7 @@
 <img align="left" alt="Hello" width="200" src="https://media.giphy.com/media/XTMCQvvHSw5vrC9Ei7/giphy.gif">
 
 
-
-
-
-- 🔭 I’m currently working on **Designing a website**
-
-- 🌱 I’m currently learning **HTML,CSS,JS,MongoDb**
-
 - 💬 Ask me about **An avid learner**
-
-- 📫 How to reach me **cmanjiri1912@gmail.com**
 
 - ⚡ Fun fact **I love exploring things**
 
