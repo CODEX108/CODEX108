@@ -26,7 +26,7 @@
 <br><br>
 
  
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=codex108&column=10&margin-w=50&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=codex108&column=10&margin-w=100&margin-h=50&no-bg=true&no-frame=true&theme=juicyfresh)
 
 
 <p align="center">  
