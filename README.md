@@ -7,7 +7,7 @@
 <img align="left" alt="Hello" width="200" src="https://media.giphy.com/media/XTMCQvvHSw5vrC9Ei7/giphy.gif">
 
 
-- 💬 Ask me about **An avid learner**
+- 💬 Ask me about **JS,Java,MongoDB**
 
 - ⚡ Fun fact **I love exploring things**
 
