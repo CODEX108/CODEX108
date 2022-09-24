@@ -25,9 +25,11 @@
 </p>
 <br><br>
 
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=codex108&column=10&margin-w=100&margin-h=50&no-bg=true&no-frame=true&theme=juicyfresh)
-
+\
+&nbsp;
+[![trophy](https://github-profile-trophy.vercel.app/?username=codex108&theme=onedark)](https://github.com/codex108/github-profile-trophy)
+\
+&nbsp;
 
 <p align="center">  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codex108&theme=dark&hide_border=true"/>  
