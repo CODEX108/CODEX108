@@ -54,6 +54,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codex108&show_icons=true&hide_border=true&title_color=7119CA&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&locale=en" alt="codex108" /></p>
 <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex108&text_color=FFFFFF&bg_color=000000&title_color=EDAA3C&langs_count=15&layout=compact&hide_border=true" />
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/shaggyyy2002/shaggyyy2002/blob/output/github-contribution-grid-snake.svg)
-<p><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Snake Eating Commits🐍"</p>
+
