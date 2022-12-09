@@ -6,9 +6,10 @@
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=codex108&color=orange&style=flat-square)
+<a><img src="https://img.shields.io/github/followers/codex108?label=Followers&style=social" alt="GitHub Badge"></a>
 # I'm a Tech Enthusiast!!</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
-- 🌱 I’m currently learning React Angular and exploring web3 ✌️
+- 🌱 I’m currently learning React,Angular and exploring web3 ✌️
 - 🔭 I’m currently working on Frontend projects 🤯
 - 👯 I’m looking to collaborate More on Real World Problems 
 - 💬 Ask me about Web Development 😁
@@ -70,10 +71,9 @@
  <a href="#"><img  alt="Manjri Chavande's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=codex108&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
 
 
-<a href="#"><img alt="Manjri Chavande's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=codex108&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br>
-<a><img src="https://img.shields.io/github/followers/codex108?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 
