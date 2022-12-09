@@ -37,11 +37,11 @@
 
 <br>
 
- ## Languages and Tools: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+ ## Languages and Tools: 
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
 ![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
 ![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -49,6 +49,10 @@
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/React-0078D4?style=for-the-badge&logo=react%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Angular-CB3837?style=for-the-badge&logo=angular%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=darkgreen)
+![](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
@@ -73,4 +77,4 @@
 
 
 
-  ### <h1><p align ="center"> Have a great day <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px">
+
