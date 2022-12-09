@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffecd2&size=29&multiline=true&width=700&lines=Namaste🙏+folks+Manjiri+here!)](https://git.io/typing-svg)
 
-<img src = "https://github.com/CODEX108/CODEX108/blob/main/GitVid%20(1)%20_Trim%20(1).mp4" align = "center"></img>
+<img src = "https://github.com/CODEX108/CODEX108/blob/main/Copy%20of%20codex108%20(1).png" align = "center" width=90% ></img>
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=codex108&color=orange&style=flat-square)
