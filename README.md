@@ -5,7 +5,7 @@
 <img src = "https://github.com/CODEX108/CODEX108/blob/main/Copy%20of%20codex108%20(1).png" align = "center" width=90% ></img>
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=codex108&color=orange&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=codex108&color=red&style=flat-square)
 <a><img src="https://img.shields.io/github/followers/codex108?label=Followers&style=social" alt="GitHub Badge"></a>
 # I'm a Tech Enthusiast!!</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
@@ -31,6 +31,8 @@
   <a href="mailto:">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
+ 
 
   <br>
   <br>
@@ -83,5 +85,5 @@
   
 </p>
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dc6jkbdfuhuec25uvtvyojrete&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
