@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffecd2&size=29&multiline=true&width=700&lines=Namaste🙏+folks+the+repo+is+still+not+functional )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=F7AD98&width=435&lines=Namaste+folks+%F0%9F%99%8F+%2C+Manjiri+here+!)](https://git.io/typing-svg)
 
 <img src = "https://github.com/CODEX108/CODEX108/blob/main/Copy%20of%20codex108%20(1).png" align = "center" width=90% ></img>
 
