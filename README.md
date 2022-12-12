@@ -5,7 +5,7 @@
 <img src = "https://github.com/CODEX108/CODEX108/blob/main/Copy%20of%20codex108%20(1).png" align = "center" width=90% ></img>
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=codex108&color=red&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=codex108&color=blueviolet&style=flat-square)
 <a><img src="https://img.shields.io/github/followers/codex108?label=Followers&style=social" alt="GitHub Badge"></a>
 # I'm a Tech Enthusiast!!</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
