@@ -12,26 +12,22 @@
 - 🌱 I’m currently learning React,Angular and exploring web3 ✌️
 - 🔭 I’m currently working on Frontend projects 🤯
 - 👯 I’m looking to collaborate More on Real World Problems 
-- 💬 Ask me about Web Development 😁
+- 💬 Ask me about MERN Stack Development 😁
 - ⚡ Fun fact: I watch tutorials in 2x speed 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https:" target="_blank" >
+<a href="https://www.linkedin.com/in/manjiri-chavande-3b032a215/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <a href="https://twitter.com/itsmanjiric" target="_blank" >
     <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://an/" target="_blank">
+  <a href="[https://an/](https://itsmanjiric.hashnode.dev/)" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://www.instagram.c/" target="_blank">
+  <a href="[https://www.instagram.c/](https://www.instagram.com/_manjiric_/)" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:">
-    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
  
 
   <br>
