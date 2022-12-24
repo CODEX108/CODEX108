@@ -1,8 +1,8 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=F7AD98&width=435&lines=Namaste+%F0%9F%99%8F+%2C+Manjiri+here+!)](https://git.io/typing-svg)
 
-<img src = "https://github.com/CODEX108/CODEX108/blob/main/Copy%20of%20codex108%20(1).png" align = "center" width=90% ></img>
+![namste](https://user-images.githubusercontent.com/82377810/209430366-17f9d56d-36b9-4ea4-b066-4a8883ca4a64.png)
+
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=codex108&color=blueviolet&style=flat-square)
