@@ -68,7 +68,7 @@
 
   
    <p align="center" >
- <a href="#"><img alt="Manjri Chavande's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=codex108&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Manjri Chavande's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codex108&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <p align="center" >
  <a href="#"><img  alt="Manjri Chavande's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=codex108&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
 
