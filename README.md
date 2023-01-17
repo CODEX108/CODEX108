@@ -61,16 +61,22 @@
 
 <br>
 
- <p align="center" >
- <a href="#"><img alt="Manjri Chavande's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex108&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
+<p align="center">
+ <a href="#"><img alt="Manjri Chavande's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex108&layout=compact&langs_count=8&theme=radical"/> </a>
+ </p>
+
+ 
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
-  
-   <p align="center" >
- <a href="#"><img alt="Manjri Chavande's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codex108&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+
+ 
+ <p align="center">
+ <a href="#"><img alt="Manjri Chavande's stats" src="https://github-readme-stats.vercel.app/api?username=codex108&show_icons=true&theme=radical"/> </a>
+ </p>
+ 
   <p align="center" >
- <a href="#"><img  alt="Manjri Chavande's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=codex108&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
+ <a href="#"><img  alt="Manjri Chavande's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=codex108&theme=radical&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
 
 
 <br>
@@ -79,7 +85,7 @@
 
 <p align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=codex108&theme=gruvbox&no-frame=false&no-bg=false&margin-w=2)
+![](https://github-profile-trophy.vercel.app/?username=codex108&theme=radical&no-frame=false&no-bg=false&margin-w=2)
   
 </p>
 
