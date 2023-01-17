@@ -11,9 +11,9 @@
 # I'm a Tech Enthusiast!!</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
 - 🌱 I’m currently learning Angular  <img src="https://raw.githubusercontent.com/ashwin1111/ashwin1111/master/img/fyle.gif" width=15>
-- 🔭 I’m currently working on Frontend projects 🤯
+- 🔭 I’m currently working on Frontend projects 
 - 👯 I’m looking to collaborate More on Real World Problems 
-- 💬 Ask me about MERN Stack Development 😁
+- 💬 Ask me about MERN Stack Development 
 - ⚡ Fun fact: I watch tutorials in 2x speed 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
