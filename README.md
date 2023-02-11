@@ -8,7 +8,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=codex108&color=blueviolet&style=flat-square)
 <a><img src="https://img.shields.io/github/followers/codex108?label=Followers&style=social" alt="GitHub Badge"></a>
-# I'm a Tech Enthusiast!!</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
+# I'm a Tech Enthusiast!!</b>&nbsp;
 
 - 🌱 I’m currently learning Angular  <img src="https://raw.githubusercontent.com/ashwin1111/ashwin1111/master/img/fyle.gif" width=15>
 - 🔭 I’m currently working on Frontend projects 
@@ -16,7 +16,7 @@
 - 💬 Ask me about MERN Stack Development 
 - ⚡ Fun fact: I watch tutorials in 2x speed 
 
-## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## Connect with me:
 <a href="https://www.linkedin.com/in/manjiri-chavande-3b032a215/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -67,7 +67,7 @@
 
  
 
-## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
+## 📊 My Github Stats 
 
 
  
