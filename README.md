@@ -26,9 +26,9 @@
   <a href="[https://an/](https://itsmanjiric.hashnode.dev/)" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.c/](https://www.instagram.com/_manjiric_/)" target="_blank">
+<!--   <a href="[https://www.instagram.c/](https://www.instagram.com/_manjiric_/)" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
  
 
   <br>
