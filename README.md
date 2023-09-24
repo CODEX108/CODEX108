@@ -10,7 +10,7 @@
 <a><img src="https://img.shields.io/github/followers/codex108?label=Followers&style=social" alt="GitHub Badge"></a>
 # I'm a Tech Enthusiast!!</b>&nbsp;
 
-- 🌱 I’m currently learning Angular
+
 - 🔭 I’m currently working on Frontend projects 
 - 👯 I’m looking to collaborate More on Real World Problems 
 - 💬 Ask me about MERN Stack Development 
