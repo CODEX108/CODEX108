@@ -41,7 +41,6 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
 ![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
-![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
