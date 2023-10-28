@@ -84,8 +84,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=codex108-ma&theme=juicyfresh)
   
-![](https://github-profile-trophy.vercel.app/?username=codex108&theme=radical&no-frame=false&no-bg=false&margin-w=2)
+<!--![](https://github-profile-trophy.vercel.app/?username=codex108&theme=radical&no-frame=false&no-bg=false&margin-w=2)-->
   
 </p>
 <br>
