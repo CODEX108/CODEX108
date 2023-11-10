@@ -96,5 +96,3 @@
  
 ![](https://github-contributor-stats.vercel.app/api?username=codex108&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-## Blogs
-![Namaste Blockchain - by team BLOCKSPIRIT](https://blockspirit.hashnode.dev/namaste-blockchain-by-blockspirit)
