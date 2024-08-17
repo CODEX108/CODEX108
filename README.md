@@ -43,7 +43,6 @@
 ![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Vue-37B5B6?style=for-the-badge&logo=vuejs&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Angular-CB3837?style=for-the-badge&logo=angular%20studio%20code&logoColor=white) -->
