@@ -8,7 +8,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=codex108&color=blueviolet&style=flat-square)
 <a><img src="https://img.shields.io/github/followers/codex108?label=Followers&style=social" alt="GitHub Badge"></a>
-# I'm a Tech Enthusiast!!</b>&nbsp;
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/manjiri-chavande-3b032a215/" target="_blank" >
